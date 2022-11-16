@@ -173,6 +173,10 @@ footer {
     #btn-perfil {
         margin-right: 0px;
     }
+
+    .boton-menu:hover {
+        transform: none;
+    }
 } 
 
 /* Estilos pantallas menores a 750px */
